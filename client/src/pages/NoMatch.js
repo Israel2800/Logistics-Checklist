@@ -1,5 +1,6 @@
 import React from 'react';
 
+// Will be viewed when no page is founded
 const NoMatch = () => {
     return (
         <div>
