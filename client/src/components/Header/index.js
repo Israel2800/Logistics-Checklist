@@ -18,7 +18,7 @@ import Auth from '../../utils/auth';
 
         
         {/* Feature LogIn access */}
-        {/* <nav className="text-center">
+        <nav className="text-center">
           {Auth.loggedIn() ? (
             <>
               <Link to="/profile">Me</Link>
@@ -32,7 +32,7 @@ import Auth from '../../utils/auth';
               <Link to="/signup">Signup</Link>
             </>
           )}
-        </nav> */}
+        </nav>
       </div>
     </header>
   );
