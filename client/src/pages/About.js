@@ -12,6 +12,15 @@ export default function About({ handlePangeChange }) {
             <p className="mb-8 leading-relaxed text-justify">
                 You will learn the different steps to successfully complete the Staging Task!
             </p>
+            <p className="mb-8 leading-relaxed text-justify">
+                
+            </p>
+             <p className="mb-8 leading-relaxed text-justify">
+                
+            </p>
+             <p className="mb-8 leading-relaxed text-justify">
+                
+            </p>
             </div>
         </secttion>
     );
