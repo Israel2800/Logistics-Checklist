@@ -19,7 +19,7 @@ const Footer = () => {
             </a>
         </div>
         <div className="git"> 
-          © 2022 Hector's Tree Service
+          © 2023 STS Workstation Support
         </div>
     </footer>
   );
